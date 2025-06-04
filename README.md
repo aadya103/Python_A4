@@ -26,8 +26,8 @@ Data successfully written to output.txt.
 
 Enter additional text to append: Learning file handling in Python.
 Data successfully appended.
-Final content of output.txt:  
 
+Final content of output.txt:  
 Hello, Python!  
 Learning file handling in Python. 
 ```
